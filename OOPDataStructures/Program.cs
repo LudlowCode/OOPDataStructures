@@ -3,9 +3,8 @@ using System.Security.Cryptography;
 
 public class BinarySearchTreeNode
 {
-    #nullable disable
-    private BinarySearchTreeNode left;
-    private BinarySearchTreeNode right;
+    private BinarySearchTreeNode? left; //? means can be null AKA nullable
+    private BinarySearchTreeNode? right;
     private int data;
 
     public BinarySearchTreeNode(int aData)
@@ -32,7 +31,7 @@ public class BinarySearchTreeNode
 
     public void inOrderTraversal()
     {
-        left?.inOrderTraversal(); //(in C# the ? means only do the method if left is not null)
+        left?.inOrderTraversal(); //(in C# ?. means only call the method if left is not null)
         Console.WriteLine(data);
         right?.inOrderTraversal();
     }
