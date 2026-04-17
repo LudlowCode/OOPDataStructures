@@ -1,0 +1,15 @@
+/workspaces/OOPDataStructures/OOPDataStructures/bin/Debug/net10.0/OOPDataStructures
+/workspaces/OOPDataStructures/OOPDataStructures/bin/Debug/net10.0/OOPDataStructures.deps.json
+/workspaces/OOPDataStructures/OOPDataStructures/bin/Debug/net10.0/OOPDataStructures.runtimeconfig.json
+/workspaces/OOPDataStructures/OOPDataStructures/bin/Debug/net10.0/OOPDataStructures.dll
+/workspaces/OOPDataStructures/OOPDataStructures/bin/Debug/net10.0/OOPDataStructures.pdb
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.AssemblyInfoInputs.cache
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.AssemblyInfo.cs
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.csproj.CoreCompileInputs.cache
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.sourcelink.json
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.dll
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/refint/OOPDataStructures.dll
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.pdb
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/OOPDataStructures.genruntimeconfig.cache
+/workspaces/OOPDataStructures/OOPDataStructures/obj/Debug/net10.0/ref/OOPDataStructures.dll
